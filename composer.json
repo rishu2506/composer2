@@ -1,0 +1,36 @@
+{
+	"repositories": [
+			{
+				"type": "package",
+				"package": [{
+					"name": "src-php",
+					"source": {
+						"url": "https://github.com/rishu2506/Dropdown.git",
+						"reference": "2.0.0"
+					}
+				},
+				{
+					"name": "services/DropDownDataServiceClient",
+					"source": {
+						"url": "https://github.com/rishu2506/Resume.git",
+						"reference": "1.0.0"
+					}
+				}
+				]
+			},
+			{
+				"type": "composer",
+				"composer": [{
+					"name": "ghi",
+					"source": {
+						"url": "https://github.com/rishu2506/composer.git",
+						"reference": "10.0.1 "
+					}
+				}
+				]
+			}
+
+			]
+}
+
+
